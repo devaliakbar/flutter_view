@@ -1,7 +1,5 @@
 # flutter_view
 
-## Description
-
 The `flutter_view` promoting a clear separation of UI and logic, resulting in more organized and maintainable code. It offers a structured approach to creating both Stateless and Stateful widgets, complete with their respective logic classes.
 
 ## How to Use
